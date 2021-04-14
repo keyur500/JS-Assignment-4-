@@ -1,0 +1,21 @@
+body{
+    background-color: #ddffbc;
+}
+#products{
+   
+    display: flex;
+    padding: 20px;
+}
+.card{
+    margin-right: 10px;
+    background-color: #edffec;
+}
+
+#YTAPI{
+    display: inline;
+}
+footer{
+    background-color: black;
+    color: #edffec;
+    padding: 20px;
+}
